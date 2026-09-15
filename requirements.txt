@@ -1,0 +1,2 @@
+# Project executed on Databricks.
+# Apache Spark / PySpark and Delta Lake are provided by the Databricks runtime.
