@@ -163,40 +163,6 @@ Games supporting more operating systems show higher median review activity and s
 
 ---
 
-## Selected Visualizations
-
-### Steam Videogame Releases by Year
-
-![Steam Videogame Releases by Year](outputs/figures/02_Steam Videogame Releases by Year.png)
-
-Steam releases increased substantially from the mid-2010s, illustrating the growing competitive density of the platform. The 2022 observations represent an incomplete year.
-
-### Top Publishers
-
-![Top 15 Publishers by Number of Steam Games](outputs/figures/02_Top 15 Publishers by Number of Steam Games.png)
-
-The publisher ecosystem is highly fragmented. Ubisoft nevertheless appears among the largest publishers in the dataset by catalogue count.
-
-### Most Represented Genres
-
-![Top 12 Genres by Number of Steam Games](outputs/figures/03_Top 12 Genres by Number of Steam Games.png)
-
-Indie, Action, Casual, and Adventure dominate genre associations. Because games can have multiple genre labels, these categories overlap and should not be interpreted as market shares.
-
-### Popularity by Genre
-
-![Median Review Volume by Established Genre](outputs/figures/03_Median Review Volume by Established Genre.png)
-
-Free to Play and Massively Multiplayer games show the highest typical review activity among the established genre groups, demonstrating that catalogue prevalence and player attention are different dimensions.
-
-### Platform Availability
-
-![Steam Games by Platform Combination](outputs/figures/03_Steam Games by Platform Combination.png)
-
-Windows dominates Steam availability, while support for macOS and Linux represents additional cross-platform reach.
-
----
-
 ## Business Takeaways for Ubisoft
 
 The analysis suggests several considerations for future Steam positioning:
